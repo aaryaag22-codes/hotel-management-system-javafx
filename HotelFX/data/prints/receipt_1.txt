@@ -1,0 +1,35 @@
+
+============================================================
+          🏨  GRAND VISTA HOTEL
+        123 Palace Road, Udupi - 576101
+     Tel: +91-820-1234567 | grandvista@hotel.com
+============================================================
+                   BILL RECEIPT
+------------------------------------------------------------
+Guest Name    : Mahira
+Contact       : 12345678
+Booking ID    : #1
+Room No.      : 700
+Room Type     : Single
+Check-In      : 08-Apr-2026
+Check-Out     : 16-Apr-2026
+No. of Days   : 8
+No. of Guests : 2
+------------------------------------------------------------
+Room Charges:                  ₹12000.00
+
+Room Service / Food Orders:
+  Masala Dosa                  x2  ₹240.00
+Food Total:                    ₹  240.00
+------------------------------------------------------------
+Sub Total:                     ₹12240.00
+Discount (10.0%):              -₹1224.00
+  Note: Birthday 10% | 
+After Discount:                ₹11016.00
+GST (12%):                     ₹ 1321.92
+------------------------------------------------------------
+GRAND TOTAL:                   ₹12337.92
+============================================================
+     Thank you for choosing Grand Vista Hotel!
+          We look forward to your next visit.
+============================================================
